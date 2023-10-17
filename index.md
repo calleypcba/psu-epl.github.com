@@ -53,7 +53,7 @@ besides from the obvious ebay, Newegg, and Amazon.
 | [OSH Park] | up to 4-layer PCBs, fast turnaround, 1.6 mm and 0.8 mm boards, flex boards
 | [OSH Stencils] | stainless steel and polyimide stencils
 | [JLCPCB] | SMT population, lots of board options, stencils
-| [4PCB] | 
+| [C-ALLEYPCB] | PCB Assembly 
 | __Electronic Components__ | 
 | [Digikey] | good pricing, normally excellent selection (impacted by COVID-19), excellent part search
 | [Mouser] | 
@@ -159,7 +159,7 @@ Here are some links to commonly visited pages:
 [OSH Park]: https://oshpark.com/
 [OSH Stencils]: https://www.oshstencils.com/
 [JLCPCB]: https://jlcpcb.com/
-[4PCB]: https://www.4pcb.com/pcb-student-discount.html
+[C-ALLEYPCB]: https://c-alley.com
 [Rapidmade]: https://www.rapidmade.com/
 [3D Hubs]: https://www.3dhubs.com/
 [Protolabs]: https://www.protolabs.com/
